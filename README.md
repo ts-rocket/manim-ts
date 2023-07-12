@@ -1,4 +1,4 @@
-![image](https://github.com/menmeen/manim-ts/assets/44677361/af197851-e437-49d5-8690-5446ee37e95b)
+![image](https://github.com/3b1b/manim/blob/master/logo/graph.png)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
